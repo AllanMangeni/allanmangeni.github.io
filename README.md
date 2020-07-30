@@ -1,2 +1,2 @@
-# personal-website
-This is my personal website
+# personal website
+:wave: This is my personal website
