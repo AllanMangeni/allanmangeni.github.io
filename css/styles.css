@@ -448,7 +448,7 @@ mark,
 
 .initialism {
   font-size: 90%;
-  text-transform: uppercase;
+  text-transform: capitalize;
 }
 
 .blockquote {
@@ -9753,7 +9753,7 @@ button.bg-dark:focus {
 }
 
 .text-uppercase {
-  text-transform: uppercase !important;
+  text-transform: capitalize !important;
 }
 
 .text-capitalize {
